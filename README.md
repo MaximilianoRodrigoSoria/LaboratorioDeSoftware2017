@@ -6,7 +6,7 @@ Integrantes:
 
 -Soria Maximiliano : maximilianorodrigosoria@gmail.com
 -Slobodianik Esteban : steven.arranzkun@gmail.com
--Isfran Emiliano : Emilianoinsfran@gmail.com
+-Isfran Emiliano : emilianoinsfran@gmail.com
 
 
 
